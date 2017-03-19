@@ -1,7 +1,7 @@
 ----------------------------------------------------------------
-Sat Mar 18 11:55:45 BRT 2017:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-015a-e1ea-c98d-000008f13440 
-on database directory memory:/Users/danielmenezes/Documents/GIT/luizalabsapi/LUIZALABS_RDB with class loader WebAppClassLoader=1202479419@47ac613b 
+Sun Mar 19 11:13:38 BRT 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-015a-e6ea-960f-000014abdeb8 
+on database directory memory:/Users/danielmenezes/Documents/GIT/luizalabsapi/LUIZALABS_RDB with class loader WebAppClassLoader=818209618@30c4e352 
 Loaded from file:/Users/danielmenezes/.m2/repository/org/apache/derby/derby/10.10.1.1/derby-10.10.1.1.jar
 java.vendor=Oracle Corporation
 java.runtime.version=1.8.0_111-b14
